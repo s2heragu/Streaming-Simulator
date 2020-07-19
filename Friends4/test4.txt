@@ -1,0 +1,14 @@
+6
+a|y|char
+b|y|char
+cat|y|word
+dog|y|word
+esdf|n
+fasd|n
+a|cat
+a|fasd
+cat|fasd
+fasd|dog
+dog|b
+dog|esdf
+b|esdf
