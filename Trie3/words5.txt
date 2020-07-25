@@ -1,9 +1,0 @@
-8
-alpha
-beta
-gamma
-epsilon
-delta
-psi
-theta
-zeta

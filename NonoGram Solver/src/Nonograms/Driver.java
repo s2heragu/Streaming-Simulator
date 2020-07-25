@@ -20,7 +20,7 @@ public class Driver {
 	public static ArrayList<Box> hasBeenUpdated = new ArrayList<>();
 	//to be fixed
 	public static void main(String[] args) {
-		init("Board1.txt");
+		init("Board.txt");
 		//PriorityQueue<Box> q = new PriorityQueue<>();
 		//Get guaranteed and fill them in, add to queue
 		trivialRows();
@@ -733,7 +733,7 @@ public class Driver {
 	public static void makeGUI() {
 		gui = new JFrame("Nonogram");
 		gui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		gui.setSize(1500,1500);
+		gui.setSize(800,800);
 		
 		int maxRowHints = solboard.maxRowHints();
 		int maxColHints = solboard.maxColHints();
