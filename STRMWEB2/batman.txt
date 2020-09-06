@@ -1,0 +1,8 @@
+batman
+bruce wayne
+5
+THE EXORCIST;horror;1
+IT;horror;1
+THE LORD OF THE RINGS: THE TWO TOWERS;fantasy;1
+THE MARTIAN;science fiction;1
+AVENGERS: ENDGAME;superhero;1

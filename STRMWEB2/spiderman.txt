@@ -1,0 +1,8 @@
+spiderman
+peter parker
+5
+BATMAN BEGINS;superhero;1
+THE GODFATHER;crime;1
+SCENT OF A WOMAN;drama;1
+PRETTY WOMAN;romance;2
+THE AMAZING SPIDER-MAN;superhero;3

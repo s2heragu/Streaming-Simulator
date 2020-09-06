@@ -1,0 +1,7 @@
+wonder woman
+diana prince
+4
+THE AMAZING SPIDER-MAN;superhero;5
+THE GODFATHER: PART 2;crime;2
+AVENGERS: ENDGAME;superhero;2
+STAR WARS: THE EMPIRE STRIKES BACK;space opera;1

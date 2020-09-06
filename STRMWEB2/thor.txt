@@ -1,0 +1,7 @@
+thor
+odinson
+4
+THE AMAZING SPIDER-MAN;superhero;2
+3 IDIOTS;comedy;2
+THE USUAL SUSPECTS;thriller;1
+AVENGERS: ENDGAME;superhero;1
